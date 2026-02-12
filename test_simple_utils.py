@@ -1,5 +1,5 @@
 """
-Comprehensive unit tests for simple_utils.py
+Unit tests for simple_utils.py
 
 Tests cover main functionality and edge cases for:
 - reverse_string
